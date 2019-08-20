@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9502E057-C2AE-424B-A475-BC20CD8420C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9502E057-C2AE-424B-A475-BC20CD8420C9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReduxCounter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReduxCounter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReduxCounter with scheme ReduxCounter and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>587975027.978917</real>
+			<key>timeStoppedRecording</key>
+			<real>587975028.64749503</real>
+			<key>title</key>
+			<string>Building workspace ReduxCounter with scheme ReduxCounter and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9502E057-C2AE-424B-A475-BC20CD8420C9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

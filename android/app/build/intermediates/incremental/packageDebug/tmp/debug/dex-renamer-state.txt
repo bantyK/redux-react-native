@@ -1,0 +1,4 @@
+#Tue Aug 20 17:48:01 IST 2019
+base.0=/Users/banty.kumar/Documents/My stuff/react-native/ReduxCounter/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
